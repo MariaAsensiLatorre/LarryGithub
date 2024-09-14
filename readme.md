@@ -1,3 +1,7 @@
+#Larry Plotter
+
 Esta serie de libros cuenta la historia de un hacker de los que hay pocos.
 
-**Maria Asensi**, Git lover 
+**Maria Asensi**, Git & Larry Plotter lover
+
+
